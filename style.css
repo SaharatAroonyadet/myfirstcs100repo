@@ -10,3 +10,12 @@ background-color: #ececf3;
 font-family: Arial, sans-serif;
 color: #222222;
 }
+.photo {
+text-align: center;
+}
+.photo img {
+width: 320px;
+}
+.info {
+width: 620px;
+margin: 40px auto 0 auto;}
